@@ -1,0 +1,22 @@
+{
+  "name": "purplecrow",
+  "version": "1.0.0",
+  "description": "prints purplecrow",
+  "main": "purplecrow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purplecrow2019/purplecrow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purplecrow2019/purplecrow/issues"
+  },
+  "homepage": "https://github.com/purplecrow2019/purplecrow#readme",
+  "dependencies": {
+    "user": "0.0.0"
+  }
+}
